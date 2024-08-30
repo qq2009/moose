@@ -1,0 +1,6 @@
+packages:
+  - 'test/**'
+  - 'hook/**'
+  - 'packages/**'
+  - 'theme/**'
+  - 'utils/**'

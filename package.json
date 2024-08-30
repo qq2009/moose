@@ -1,0 +1,23 @@
+{
+    "name": "moose",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "scripts": {
+        "test-dev": "pnpm run -C test dev"
+    },
+    "dependencies": {
+        "@moose/hook": "workspace:^",
+        "@moose/packages": "workspace:^",
+        "@moose/theme": "workspace:^",
+        "@moose/utils": "workspace:^",
+        "@vueuse/core": "^10.11.0",
+        "element-plus": "^2.8.1",
+        "lodash": "^4.17.21",
+        "vue": "^3.4.37"
+    },
+    "devDependencies": {
+        "jsdoc": "^4.0.3"
+    },
+    "license": "ISC"
+}
